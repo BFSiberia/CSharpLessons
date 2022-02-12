@@ -1,0 +1,15 @@
+E:\C#lessons\HM1\bin\Debug\net6.0\HM1.exe
+E:\C#lessons\HM1\bin\Debug\net6.0\HM1.deps.json
+E:\C#lessons\HM1\bin\Debug\net6.0\HM1.runtimeconfig.json
+E:\C#lessons\HM1\bin\Debug\net6.0\HM1.dll
+E:\C#lessons\HM1\bin\Debug\net6.0\ref\HM1.dll
+E:\C#lessons\HM1\bin\Debug\net6.0\HM1.pdb
+E:\C#lessons\HM1\obj\Debug\net6.0\HM1.csproj.AssemblyReference.cache
+E:\C#lessons\HM1\obj\Debug\net6.0\HM1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#lessons\HM1\obj\Debug\net6.0\HM1.AssemblyInfoInputs.cache
+E:\C#lessons\HM1\obj\Debug\net6.0\HM1.AssemblyInfo.cs
+E:\C#lessons\HM1\obj\Debug\net6.0\HM1.csproj.CoreCompileInputs.cache
+E:\C#lessons\HM1\obj\Debug\net6.0\HM1.dll
+E:\C#lessons\HM1\obj\Debug\net6.0\ref\HM1.dll
+E:\C#lessons\HM1\obj\Debug\net6.0\HM1.pdb
+E:\C#lessons\HM1\obj\Debug\net6.0\HM1.genruntimeconfig.cache
